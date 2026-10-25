@@ -1,0 +1,22 @@
+# Служебные каталоги и кэш 1С:EDT
+.metadata/
+bin/
+ParentConfigurations/
+
+# Временные файлы и дампы
+*.tmp
+*.1CD
+*.CD
+*.dt.bak
+DumpFilesIndex.txt
+ConfigDumpInfo.xml
+
+# Настройки среды
+*.log
+*.lock
+.project
+.classpath
+
+# Личные файлы разработчика
+*.user
+*.suo
